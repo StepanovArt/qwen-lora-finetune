@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# trained adapter weights (re-create with train.py; uncomment to keep them out)
+qwen-fin-sentiment-lora/
+*.safetensors
+*.bin
